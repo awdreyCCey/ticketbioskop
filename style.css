@@ -1,0 +1,30 @@
+body{
+font-family: Arial;
+background:#111;
+color:white;
+text-align:center;
+}
+
+.container{
+width:80%;
+margin:auto;
+}
+
+.film{
+background:#222;
+padding:20px;
+margin:20px;
+border-radius:10px;
+}
+
+button{
+padding:10px 20px;
+background:red;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+.kursi{
+margin:10px;
+}
